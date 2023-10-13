@@ -1,0 +1,42 @@
+.img {
+width: 300px;
+height: 200px;
+margin-bottom: 20px;
+border-style: solid;
+ box-shadow: 5px 5px;
+ Margin-left: 20px;
+  padding: 10px;
+}
+
+#interesting-fact {
+  font-style: italic;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+span {
+	font-weight: bold;
+}
+
+li {
+  list-style: none;
+  padding: 0px;
+  margin-left: 10px;
+ margin-right: 10px;
+}
+#container {
+  border-style: solid;
+padding: 20px;
+  width: 300px;
+  box-shadow: 4px 4px;
+  border: 1px solid;
+  border-color: gray;
+}
+
+.animal-info {
+border style: solid;
+padding: 5px;
+  width: 300px;
+  border: 1px solid;
+  margin-top: 12px;
+  
